@@ -3,8 +3,6 @@
 ## 同步更新在线接口
 ```
 https://www.252035.xyz/p/jsm.json
-http://www.fish2018.ip-ddns.com/p/jsm.json
-http://www3.fish2018.ip-ddns.com/p/jsm.json
 ```
 - 选择主页可以查看当前PG包版本  
 - 在线接口已经默认集成了tgsearch的在线服务器，无需任何tg配置
@@ -12,6 +10,8 @@ http://www3.fish2018.ip-ddns.com/p/jsm.json
 备用接口
 ```
 https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json
+http://www.fish2018.ip-ddns.com/p/jsm.json
+http://www3.fish2018.ip-ddns.com/p/jsm.json
 ```
 
 
