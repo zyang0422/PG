@@ -2,8 +2,8 @@
 
 ## 同步更新在线接口
 ```
+https://www.252035.xyz/p/jsm.json
 http://www.fish2018.ip-ddns.com/p/jsm.json
-http://www2.fish2018.ip-ddns.com/p/jsm.json
 http://www3.fish2018.ip-ddns.com/p/jsm.json
 ```
 - 选择主页可以查看当前PG包版本  
@@ -20,8 +20,8 @@ https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json
 
 ## tgsearch服务器
 ```
+https://tg.252035.xyz
 http://tg.fish2018.ip-ddns.com
-http://tg2.fish2018.ip-ddns.com
 http://tg3.fish2018.ip-ddns.com
 ```
 
@@ -43,7 +43,7 @@ http://tg3.fish2018.ip-ddns.com
 
 
 ## PG包下载地址
-PG包[README.txt](http://www.fish2018.ip-ddns.com/p/README.txt)  
+PG包[README.txt](https://www.252035.xyz/p/README.txt)  
 ```text
 对不起，我是顶级视听控，阿里不限速网盘资源全秒播
 讨论组:  https://t.me/pandagroovechat
@@ -81,7 +81,7 @@ https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg
 ```
 
 ## tgsearch包下载地址
-[README.txt](http://www.fish2018.ip-ddns.com/README.txt)    
+[README.txt](https://www.252035.xyz/README.txt)    
 [教程](https://github.com/fish2018/lib) (@奥利给 @jack)  
 [安装脚本](https://github.com/DDS-Derek/alist-tvbox-script)  (@DDS-Derek)  
 
